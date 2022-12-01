@@ -1,0 +1,23 @@
+.body{
+    background-image: url("https://www.hogarmania.com/archivos/202210/comidas-halloween-portada-1280x720x80xX.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.h1{
+    color: ghostwhite;
+}
+.img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+}
+#spanId{
+    margin: 50px;
+    font-size: 18px;
+}
+.ul{
+    list-style: none;
+}
